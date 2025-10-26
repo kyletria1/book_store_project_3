@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Book from './Book.jsx';
-import Modal from './Modal.jsx';
+import Modal from './modal.jsx';
 import './index.css';
 
 export default function App() {
